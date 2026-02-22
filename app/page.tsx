@@ -20,8 +20,8 @@ export default function Home() {
             <AvatarImage src="https://cdn.discordapp.com/attachments/1423070855608406170/1475139633326194738/90238b44-443b-4b98-9269-affd27e883d5.jpg?ex=699c6657&is=699b14d7&hm=9b815f7143001978506191979b312e90a2f4c493f24bc48e1cea5e8db0b78ffc&" className="rounded-full" />
             <AvatarFallback>GL</AvatarFallback>
           </Avatar>
-          <CardTitle className="text-2xl font-bold text-center">Gabriel Gonçalves</CardTitle>
-          <CardDescription className="text-center">Se conecte comigo:</CardDescription>
+          <CardTitle className="text-2xl font-bold text-center">Yarbu</CardTitle>
+          <CardDescription className="text-center">Connect with me:</CardDescription>
         </CardHeader>
         <CardContent className="grid gap-4">
           {socialLinks.map((link) => (
