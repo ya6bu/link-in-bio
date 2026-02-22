@@ -7,10 +7,10 @@ import { Github, Twitter, Linkedin, Instagram } from "lucide-react"
 
 export default function Home() {
   const socialLinks = [
-    { name: "GitHub", icon: Github, url: "https://github.com/gabriellucasvh", color: "#333" },
+    { name: "GitHub", icon: Github, url: "https://github.com/yarbu-me", color: "#333" },
     { name: "Twitter", icon: Twitter, url: "https://twitter.com/", color: "#1DA1F2" },
-    { name: "LinkedIn", icon: Linkedin, url: "https://linkedin.com/in/gabriellucasvh", color: "#0077B5" },
-    { name: "Instagram", icon: Instagram, url: "https://instagram.com/", color: "#E1306C" },
+    { name: "LinkedIn", icon: Linkedin, url: "https://linkedin.com", color: "#0077B5" },
+    { name: "Instagram", icon: Instagram, url: "https://www.instagram.com/ya6bu", color: "#E1306C" },
   ]
   return (
     <div className="min-h-screen flex items-center justify-center bg-gradient-to-r from-purple-400 via-pink-500 to-red-500 font-sans">
