@@ -17,7 +17,7 @@ export default function Home() {
       <Card className="w-full max-w-md">
         <CardHeader className="flex items-center justify-center">
           <Avatar className="w-32 h-32 shadow-xl bg-gradient-to-r from-purple-400 via-pink-500 to-red-500 p-0.5">
-            <AvatarImage src="https://cdn.discordapp.com/attachments/1423070855608406170/1475139633326194738/90238b44-443b-4b98-9269-affd27e883d5.jpg?ex=699c6657&is=699b14d7&hm=9b815f7143001978506191979b312e90a2f4c493f24bc48e1cea5e8db0b78ffc&" className="rounded-full" />
+            <AvatarImage src="https://i.pinimg.com/564x/d1/2c/b4/d12cb4e72952c53a55eb8b6dad674a18.jpg" className="rounded-full" />
             <AvatarFallback>GL</AvatarFallback>
           </Avatar>
           <CardTitle className="text-2xl font-bold text-center">Yarbu</CardTitle>
