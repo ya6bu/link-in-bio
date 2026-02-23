@@ -18,7 +18,7 @@ export default function Home() {
         <CardHeader className="flex items-center justify-center">
           <Avatar className="w-32 h-32 shadow-xl bg-gradient-to-r from-purple-400 via-pink-500 to-red-500 p-0.5">
             <AvatarImage src="https://i.pinimg.com/564x/d1/2c/b4/d12cb4e72952c53a55eb8b6dad674a18.jpg" className="rounded-full" />
-            <AvatarFallback>GL</AvatarFallback>
+            <AvatarFallback>Yarbu</AvatarFallback>
           </Avatar>
           <CardTitle className="text-2xl font-bold text-center">Yarbu</CardTitle>
           <CardDescription className="text-center">Connect with me:</CardDescription>
